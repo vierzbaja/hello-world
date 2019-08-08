@@ -1,2 +1,2 @@
 # hello-world
-First time building a repository
+Writing about me! Go programming!
